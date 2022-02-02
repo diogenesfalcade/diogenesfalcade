@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- # 🔭 I’m currently working on scripts for SAP with Python
- # 🌱 I’m currently learning Pandas and Scikit-learn
- # 👽 My goal is to apply Python into real problems, mainly engineering challenges
- # 🤯 I'm studyng Chemical Engineering, soon i will be gratuated
+ ### 🔭 I’m currently working on scripts for SAP with Python
+ ### 🌱 I’m currently learning Pandas and Scikit-learn
+ ###👽 My goal is to apply Python into real problems, mainly engineering challenges
+ ### 🤯 I'm studyng Chemical Engineering, soon i will be gratuated
  
- # ✍ Also, I am new to github, so as i learn and build new projects i will be updating here
+ ### ✍ Also, I am new to github, so as i learn and build new projects i will be updating here
