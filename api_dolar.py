@@ -1,6 +1,9 @@
 import requests
 import json
 
+# get the values from an URL, reads the json and convert it to an PyList
+# the result is how much the Real is worth compared to the Dollar, Euro and Bitcoin
+
 cotacoes = requests.get("https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL")
 cotacoes = cotacoes.json()
 cotacao_dolar = cotacoes['USDBRL']["bid"]
