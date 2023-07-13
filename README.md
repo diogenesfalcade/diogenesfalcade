@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ### 🔭 I'm currently working on Labware with Lims Basic and T-SQL as Associate Consultant
- ### 🌱 I’m learning Pandas, Scikit-learn and T-SQL
- ### 👽 My goal is to apply Python into real problems
- ### 🤯 I'm Chemical Engineering
+ ### 🤔 Working with Braskem and Glencore
+ ### 🌱 Learning Pandas, Django, Scikit-learn and T-SQL
+ ### 👽 Applying Python into data science and analysis
+ ### 🤯 I'm a Chemical Engineering
  
  ### ✍ Also, I am new to github, so as i learn and build new projects i will be updating here
