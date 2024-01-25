@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ### 🔭 I'm currently working on Labware with Lims Basic and T-SQL as Associate Consultant
- ### 🤔 Working with Braskem and Glencore
+ ### 🤔 Working in Product Development for Labware
  ### 🌱 Learning Pandas, Django, Scikit-learn and T-SQL
  ### 👽 Applying Python into data science and analysis
  ### 🤯 I'm a Chemical Engineering
