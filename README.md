@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ### 🔭 I'm currently working on Labware with Lims Basic and T-SQL as Associate Consultant
- ### 🤔 Working in Product Development for Labware
- ### 🌱 Learning Pandas, Django, Scikit-learn and T-SQL
- ### 👽 Applying Python into data science and analysis
- ### 🤯 I'm a Chemical Engineering
+ ### 🔭 I'm currently working on Labware with Lims Basic and SQL as Associate Consultant
+ ### 🤔 Doing product development of SaaS LIMS
+ ### 🌱 Studying Data Science and Big Data
+ ### 👽 Applying Python into data science in small projects
+ ### 🤯 I'm a Chemical Engineering, which gives me a good background on mathematical modeling
  
  ### ✍ Also, I am new to github, so as i learn and build new projects i will be updating here
