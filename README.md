@@ -1,9 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
- ### 🔭 I'm currently working on Labware with Lims Basic and SQL as Associate Consultant
- ### 🤔 Doing product development of SaaS LIMS
- ### 🌱 Studying Data Science and Big Data - on the way to get a Graduate degree from UFPR
- ### 👽 Applying Python and R into data science small projects
- ### 🤯 I'm a Chemical Engineer, which gives me a good background on mathematical modeling
- 
- ### ✍ GitHub newbie
+🔭 I'm currently working as an Associate Consultant, focused on Labware LIMS, SQL, and LIMS Basic.
+🤔 Engaged in SaaS LIMS product development, ensuring effective lab data management solutions.
+🌱 Pursuing a Graduate Degree in Data Science and Big Data at UFPR, exploring innovative applications.
+👽 Using Python and R to develop and refine data science projects.
+🤯 As a Chemical Engineer, I leverage my expertise in mathematical modeling, optimization, and problem-solving for data-driven insights.
+✍ Still learning the ropes on GitHub—open to any tips!
